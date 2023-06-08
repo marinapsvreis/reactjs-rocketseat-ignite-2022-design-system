@@ -33,6 +33,7 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
+    "@storybook/addon-a11y": "^7.0.20",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2"
   }
