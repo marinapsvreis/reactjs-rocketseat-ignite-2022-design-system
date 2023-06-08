@@ -3,7 +3,7 @@
 - [X] Box
 - [X] Button
 - [X] TextInput
-- [ ] TextArea
-- [ ] Checkbox
+- [X] TextArea
+- [X] Checkbox
 - [X] Avatar
 - [ ] Multistep
