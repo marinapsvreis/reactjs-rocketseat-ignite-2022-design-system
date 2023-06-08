@@ -14,5 +14,12 @@ const config = {
   docs: {
     autodocs: "tag",
   },
+  viteFinal: (config, { configType }) => {
+    if(configType === 'PRODUCTION') {
+      config.base = '/reactjs-rocketseat-ignite-2022-design-system/'
+    }
+
+    return config
+  }
 };
 export default config;
