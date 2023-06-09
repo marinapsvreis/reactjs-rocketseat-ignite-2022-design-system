@@ -1,5 +1,11 @@
 # @marinapsvreis-ignite/react
 
+## 2.0.2
+
+### Patch Changes
+
+- Add Toast and Tooltip Components
+
 ## 2.0.1
 
 ### Patch Changes
