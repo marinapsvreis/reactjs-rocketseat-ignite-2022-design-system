@@ -1,0 +1,2 @@
+import{A as t}from"./index.e3a10585.js";import"./index.f948f0e9.js";import"./iframe.69a62950.js";import"./index.41296ee4.js";import"./jsx-runtime.213cde49.js";const p={title:"Data display/Avatar",component:t,tags:["autodocs"],args:{src:"https://github.com/marinapsvreis.png",alt:"Marina Valente"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.eab272ce.js.map

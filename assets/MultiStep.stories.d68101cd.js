@@ -1,0 +1,2 @@
+import{M as r,B as o}from"./index.e3a10585.js";import{j as s}from"./jsx-runtime.213cde49.js";import"./index.f948f0e9.js";import"./iframe.69a62950.js";import"./index.41296ee4.js";const c={title:"Form/Multi Step",component:r,tags:["autodocs"],args:{size:4,currentStep:1},decorators:[t=>s(o,{as:"label",css:{display:"flex",flexDirection:"column",gap:"$2"},children:t()})]},m={args:{}},n={args:{currentStep:4}},u=["Primary","Full"];export{n as Full,m as Primary,u as __namedExportsOrder,c as default};
+//# sourceMappingURL=MultiStep.stories.d68101cd.js.map
